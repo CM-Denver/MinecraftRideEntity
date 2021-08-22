@@ -1,0 +1,10 @@
+version: 1.0
+name: RideEntity
+main: com.william.plugin.Main
+
+author: me
+description: Allows the player to ride entities by right-clicking them!
+
+commands:
+  vanish:
+
